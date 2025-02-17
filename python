@@ -1,0 +1,41 @@
+
+print("Hello NIsar")
+print("Hi Nisar")
+print(" hello, world")
+
+a = 2
+print(a)
+
+b = 2384928342342
+print(b)
+
+pi=2.13
+print(pi)
+
+c = 'A'
+print(c)
+
+name="SajelaNisar"
+print(name)
+
+q = True
+print(q)
+
+x = None
+print(x)
+
+# import keyword
+# print(keyword.kwlist)
+
+
+a = 2
+print(type(a))
+
+b = 2342343423
+print(type(b))
+
+pi = 3.13
+print(type(pi))
+
+c = 'A'
+print(type(c))
